@@ -12,7 +12,7 @@
 | Contract | Protocol Type | Baseline Gas | Optimized Gas | Reduction | Est. Monthly Savings* |
 |----------|---------------|-------------|---------------|-----------|----------------------|
 | **[Compound V2 CErc20](reports/CErc20.md)** | Lending Wrapper | ~145,200 | ~144,600 | **~0.4%** | ~$1,200 |
-| *OpenZeppelin ERC20* | Token Standard | *Pending* | *Pending* | *Pending* | *Pending* |
+| **[OpenZeppelin ERC20](reports/ERC20.md)** | Token Standard | ~51,400 | ~51,170 | **~0.4%** | ~$46 |
 | *Audited DeFi Protocol* | AMM / Yield | *Pending* | *Pending* | *Pending* | *Pending* |
 
 *\*Estimates based on 10,000 tx/month at 20 gwei and $3,000/ETH. Actual savings scale with protocol volume and gas prices.*
