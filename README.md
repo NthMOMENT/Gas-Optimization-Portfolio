@@ -180,7 +180,7 @@ To initiate a request, provide:
 - Preferred delivery timeline
 
 **Response Time:** < 24 hours  
-**Communication:** Telegram | Discord | Email
+**Communication:** [![Telegram](https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/fourier_u) | Discord | Email
 
 > 🔒 All engagements are bound by strict confidentiality. Client code and proprietary logic are never retained or shared.
 
