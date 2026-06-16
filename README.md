@@ -1,4 +1,7 @@
-# ![Fourier](link-to-your-image) | Professional Solidity Gas Optimization
+
+<img width="800" height="200" alt="Fourier Landscape 1600x400" src="https://github.com/user-attachments/assets/894e9daa-dee9-4658-b877-faab92019cd6" /> 
+
+# Professional Solidity Gas Optimization
 
 > Advanced EVM gas optimization for production smart contracts. Reduce deployment and runtime costs with verified, test-preserving code adjustments.
 
