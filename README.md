@@ -7,6 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/GitHub-Full_Reports-181717?style=for-the-badge&logo=github)](https://github.com/NthMOMENT)
 [![Response](https://img.shields.io/badge/Response-<24h-4CAF50?style=for-the-badge)](#contact)
+[![Twitter](https://img.shields.io/badge/Follow-@0xfourier-000000?style=for-the-badge&logo=x)](https://x.com/0xfourier)
 
 ---
 
@@ -180,7 +181,7 @@ To initiate a request, provide:
 - Preferred delivery timeline
 
 **Response Time:** < 24 hours  
-**Communication:** [![Telegram](https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/fourier_u) | Discord | Email
+**Communication:** [![Telegram](https://img.shields.io/badge/Contact-Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/fourier_u) | **Discord:** `0xfourier`
 
 > 🔒 All engagements are bound by strict confidentiality. Client code and proprietary logic are never retained or shared.
 
