@@ -23,6 +23,7 @@
 | **[Fluid DEX v2](reports/FluidDEXv2.md)** | Concentrated Liquidity DEX | ~380,000 | ~378,200 | **~0.47%** | ~$1,800/swap |
 | **[Uniswap V3 Pool](reports/UniswapV3.md)** | Concentrated Liquidity DEX | ~195,000 | ~194,400 | **~0.3%** | ~$500/swap |
 | **[Lido stETH + WithdrawalQueue](reports/Lido.md)** | Liquid Staking | ~56,400 | ~56,000 | **~0.7%** | ~$55,000/mo |
+| **[Aerodrome Slipstream](reports/AerodromeSlipstream.md)** | Concentrated DEX | ~195,000 | ~194,300 | ~0.36% | ~$663K/mo mainnet |
 *\*Estimates based on 10,000 tx/month at 20 gwei and $1,700/ETH. Actual savings scale with protocol volume and gas prices.*
 
 ---
