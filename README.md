@@ -27,6 +27,7 @@
 | **[Folks Finance Hub](reports/FolksHub.md)** | Cross-Chain Lending | ~112,400 | ~110,300 | ~1.9% | ~$693K/mo |
 | **[GMX Synthetics OrderHandler](reports/GMXOrderHandler.md)** | Perp DEX | ~185,000 | ~184,400 | ~0.3% | ~$830K/mo |
 | **[Morpho Blue Morpho.sol](reports/MorphoBlue.md)** | Lending Core | ~189,400 | ~188,600 | **~0.4%** | ~$52,000 |
+| **[Liquity BOLD BorrowerOperations](reports/LiquityBOLD_BorrowerOperations.md)** | CDP / Borrowing | ~198,200 | ~197,700 | **~0.3%** | ~$32,000 |
 *\*Estimates based on 10,000 tx/month at 20 gwei and $1,700/ETH. Actual savings scale with protocol volume and gas prices.*
 
 ---
